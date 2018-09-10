@@ -2,4 +2,4 @@ FROM scratch
 
 MAINTAINER Remon Lam [remon.lam@rechtspraak.nl]
 
-ADD someimage.tar.gz
+ADD alpine-minirootfs-3.8.0-x86_64.tar.gz /
